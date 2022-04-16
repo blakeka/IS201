@@ -1,0 +1,31 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: palevioletred; 
+    background-color: lightgray;
+}
+li{
+    font-size: 25px;
+    font-style: italic;
+}
+a{
+    color: lightpink;text-decoration: none;
+}
+
+a:hover { 
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+a:visited { 
+    color:darkblue 
+}
+.bold{
+    font-weight: bold;
+    font-style: normal;
+}
+
+.underline { 
+    text-decoration: none;
+}
